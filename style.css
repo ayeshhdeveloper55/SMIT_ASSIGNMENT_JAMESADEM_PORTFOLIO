@@ -1,0 +1,61 @@
+.cont{
+    display: flex;
+    color: white;
+    margin-left: 60px;
+}
+.cont2{
+    color:gray;
+    display: flex;
+    margin-left:250px ;
+    gap: 60px;
+    
+    
+}
+.navbar-text{
+    display: flex;
+    align-items: center;
+}
+.cont3{
+    margin-left: 350px;
+    gap: 20px;
+}
+.cont3 button{
+    width: 60px;
+    height: 40px;
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 15px;
+    border-radius: 10px;
+
+
+}
+.cont4{
+    display: flex;
+    background-color: black;
+
+}
+.contno1{
+    color: white;
+    padding-left: 60px;
+    margin: 0%;
+}
+.contno2{
+    color: white;
+}
+.contno3{
+    color: white;
+    padding-left: 150px;
+    margin-top: 100px;
+
+
+}
+.cont5{
+    background-color: black;
+    width:500px ;
+    height: 400px;
+}
+.container{
+    background-color: black;
+    color: white;
+    
+}
